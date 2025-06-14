@@ -1,2 +1,1 @@
-# feishu-doc-export-py
-Export feishu docs in Python
+# Export feishu docs in Python
